@@ -1,0 +1,5 @@
+name: Timezone Blocks
+type: module
+description: Custom Timezone block according to location.
+core: 8.x
+package: Custom

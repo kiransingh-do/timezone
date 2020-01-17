@@ -1,0 +1,5 @@
+services:
+  timezone.location:
+    class: Drupal\timezone\TimezoneSubscriber
+    tags:
+      - { name: event_subscriber }
